@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Calibri");
+body {
+    font-family: "Calibri";
+    background-image: url("https://3sr05l2l7ihe1u4u613nqp53-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/iStock-1093713604.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    line-height: 1.5;
+    font-size: 14.5pt;
+    font-weight: 400;
+    color: #C7B9B6;
+}
+.chat-area {
+    position: center;
+    text-align: center;
+    background-color: #eeeeee;
+}
+textarea {
+    font-family: "Calibri";
+    background-color: #FFFFFF;
+    opacity: 0.90;
+    outline: none;
+    resize: none;
+    overflow: auto;
+    border: none;
+    display: block;
+    border: 3px solid #cccccc;
+}
